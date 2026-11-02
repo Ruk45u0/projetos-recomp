@@ -9,7 +9,6 @@ Lista organizada com os melhores projetos de recompilação de jogos, além de f
   - [PlayStation 2](#playstation-2)
   - [Nintendo Switch](#nintendo-swicth)
   - [PlayStation 4](#playstation-4)
-- [Decompilações e Ports Nativos](#decompilações-e-ports-nativos)
 - [Emuladores](#emuladores)
   
 
