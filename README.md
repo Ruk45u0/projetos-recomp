@@ -6,7 +6,6 @@ Lista organizada com os melhores projetos de recompilação de jogos, além de f
 
 - [Recompilações](#recompilações)
   - [Xbox One](#xbox-one)
-  - [PlayStation 2](#playstation-2)
   - [Nintendo Switch](#nintendo-swicth)
   - [PlayStation 4](#playstation-4)
 - [Emuladores](#emuladores)
