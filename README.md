@@ -37,7 +37,7 @@ Lista organizada com os melhores projetos de recompilação de jogos, além de f
 
 ## Emuladores
 
-- [KytyPS5 (fork do chenxiao07)](https://github.com/chenxiao07/KytyPS5) - Emulador de PS5 em C++. Fork do [KytyPS5](https://github.com/KytyPS5/KytyPS5), que por sua vez deriva do [Kyty](https://github.com/InoriRus/Kyty). Roda jogos 2D e alguns 3D (Unreal, Unity). Requer cópia legal do jogo. `PS5` `Windows` `Linux` `macOS (experimental)` `GPL-2.0` 🟢
+- [KytyPS5 (fork do chenxiao07)](https://github.com/chenxiao07/KytyPS5) - Emulador de PS5 em C++. Fork do [KytyPS5](https://github.com/KytyPS5/KytyPS5), que deriva do [Kyty](https://github.com/InoriRus/Kyty). Nos meus testes, foi o fork com melhor desempenho em *Demon's Souls* (remake). Atualizado quase diariamente. Requer cópia legal do jogo. `PS5` `Windows` `Linux` `macOS (experimental)` `GPL-2.0` 🟢
 
 ## Como contribuir
 
