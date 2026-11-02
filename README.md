@@ -5,10 +5,13 @@ Lista organizada com os melhores projetos de recompilação de jogos, além de f
 ## Índice
 
 - [Recompilações](#recompilações)
+  - [Xbox One](#xbox-one)
+  - [PlayStation 2](#playstation-2)
+  - [Nintendo Switch](#nintendo-swicth)
+  - [PlayStation 4](#playstation-4)
 - [Decompilações e Ports Nativos](#decompilações-e-ports-nativos)
-- [Engines Reimplementadas](#engines-reimplementadas)
-- [Ferramentas](#ferramentas)
 - [Emuladores](#emuladores)
+  
 
 ## Legenda de status
 
@@ -19,21 +22,6 @@ Lista organizada com os melhores projetos de recompilação de jogos, além de f
 
 ## Recompilações
 
-- [Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Port de *Majora's Mask* para PC via recompilação estática. `N64` `PC` 🟢
-
-## Decompilações e Ports Nativos
-
-- [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) - Port de *Ocarina of Time* baseado na decompilação. `N64` `PC` 🟢
-- [Starship](https://github.com/HarbourMasters/Starship) - Port de *Star Fox 64*. `N64` `PC` 🟢
-
-## Engines Reimplementadas
-
-- [OpenMW](https://github.com/OpenMW/openmw) - Engine open source para *The Elder Scrolls III: Morrowind*. `PC` 🟢
-- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Reimplementação de *RollerCoaster Tycoon 2*. `PC` 🟢
-
-## Ferramentas
-
-- [N64Recomp](https://github.com/N64Recomp/N64Recomp) - Ferramenta para recompilar jogos de N64 estaticamente. `N64` 🟢
 
 ## Emuladores
 
