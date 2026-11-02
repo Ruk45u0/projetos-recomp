@@ -8,6 +8,7 @@ Lista organizada com os melhores projetos de recompilação de jogos, além de f
 - [Decompilações e Ports Nativos](#decompilações-e-ports-nativos)
 - [Engines Reimplementadas](#engines-reimplementadas)
 - [Ferramentas](#ferramentas)
+- [Emuladores](#emuladores)
 
 ## Legenda de status
 
